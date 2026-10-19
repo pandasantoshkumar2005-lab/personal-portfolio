@@ -18,7 +18,7 @@ export const personalData = {
   availability: "Open to collaborative projects & discussions",
   // Attach your photo here: place an image file (e.g. photo.jpg) in the 'public' folder and set avatarUrl: "/photo.jpg"
   // or use an external URL. If left empty, an artistic dark tech avatar will be displayed automatically.
-  avatarUrl: "/public/personal_image.jpg",
+  avatarUrl: "https://gietuerp.in/Student/GetStudentImage?rollno=25CSEAIML085",
   
   hero: {
     badge: "PORTFOLIO / 2026",
